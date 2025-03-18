@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Aquto.ru - Автомобильные обзоры и новости</title>
+    <link>https://aquto.ru/</link>
+    <description>Свежие обзоры автомобилей, новости автоиндустрии и полезные советы для автолюбителей на Aquto.ru</description>
+    <language>ru-ru</language>
+    <pubDate>Tue, 18 Mar 2025 10:00:00 +0300</pubDate>
+
+    <item>
+      <title>Zeekr 001 FR 2025: Полный обзор электромобиля</title>
+      <link>https://aquto.ru/zeekr-001-fr-obzor.html</link>
+      <description><![CDATA[
+        Обзор автомобиля Zeekr 001 FR 2025: технические характеристики, дизайн, особенности и преимущества. Узнайте все о новом электромобиле Zeekr.
+      ]]></description>
+      <pubDate>Tue, 18 Mar 2025 10:00:00 +0300</pubDate>
+      <guid>https://aquto.ru/zeekr-001-fr-obzor.html</guid>
+    </item>
+
+  </channel>
+</rss>
