@@ -1,0 +1,66 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7fa;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 28px;
+    color: #222;
+}
+
+.intro {
+    font-size: 18px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    border-bottom: 3px solid #007bff;
+    padding-bottom: 5px;
+}
+
+.specs-list,
+.interior-list,
+.tech-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.specs-list li,
+.interior-list li,
+.tech-list li {
+    background-color: #eaf3ff;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.car-image {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+footer {
+    text-align: center;
+    font-size: 14px;
+    color: #777;
+}
